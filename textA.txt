@@ -1,3 +1,2 @@
-this is the first element
-again add second element
-this line add from *****newbranch*****
+first line of the file
+second line of the file
